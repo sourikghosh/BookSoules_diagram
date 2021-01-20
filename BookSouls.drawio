@@ -1,38 +1,268 @@
-<mxfile host="app.diagrams.net" modified="2021-01-20T05:04:37.637Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 Edg/87.0.664.75" etag="v1zGi_s2t-atfjkzB2Nd" version="14.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-20T06:11:00.525Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 Edg/87.0.664.75" etag="VYEXJXD9n-8Ra2ZKW_w3" version="14.2.5" type="github" pages="3">
   <diagram id="uG5XpvnbjQkg9dnHYVo2" name="Page-1">
-    <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1342" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="uCGIbcbwJvLG3aiI82Lx-5" value="ANDROID APP" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="270" y="90" width="100" height="50" as="geometry" />
+        <mxCell id="uCGIbcbwJvLG3aiI82Lx-5" value="&lt;font style=&quot;font-size: 18px&quot;&gt;ANDROID APP&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#fff2cc;strokeColor=#d6b656;glass=0;sketch=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="391.91999999999996" y="180" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="uCGIbcbwJvLG3aiI82Lx-8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontFamily=Georgia;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="610" y="320" width="60" height="60" as="geometry" />
+        <mxCell id="uCGIbcbwJvLG3aiI82Lx-8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontFamily=Georgia;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="600" width="110" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="uCGIbcbwJvLG3aiI82Lx-10" value="Book souls" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;" vertex="1" parent="1">
-          <mxGeometry x="398.46" y="100" width="41.54" height="30" as="geometry" />
+        <mxCell id="uCGIbcbwJvLG3aiI82Lx-10" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Book souls&lt;/font&gt;" style="text;html=1;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Georgia;strokeColor=#3399FF;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="414.65" y="110" width="95.35" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="uCGIbcbwJvLG3aiI82Lx-11" value="ALL Request" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Georgia;sketch=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="200" width="70" height="50" as="geometry" />
+        <mxCell id="uCGIbcbwJvLG3aiI82Lx-11" value="&lt;h3&gt;&lt;font style=&quot;font-size: 24px ; font-weight: normal&quot;&gt;All Request&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Georgia;sketch=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uCGIbcbwJvLG3aiI82Lx-12" value="&lt;h1&gt;Database&lt;/h1&gt;&lt;p&gt;Note: The database can be any postgresql or Mongodb for the Use case.&lt;/p&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Georgia;" vertex="1" parent="1">
-          <mxGeometry x="590" y="390" width="190" height="120" as="geometry" />
+        <mxCell id="uCGIbcbwJvLG3aiI82Lx-12" value="&lt;h1&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;Database&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Note: The database can be any &lt;b&gt;PostgreSQL&lt;/b&gt; or &lt;b&gt;MongoDB&lt;/b&gt; for the Use case.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontFamily=Georgia;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="840" width="320" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="uCGIbcbwJvLG3aiI82Lx-13" value="Accept the request and sends proper response back to client" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;" vertex="1" parent="1">
-          <mxGeometry x="250" y="320" width="90" height="110" as="geometry" />
+        <mxCell id="uCGIbcbwJvLG3aiI82Lx-13" value="&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;i&gt;Accept the request and sends proper response back to client&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Georgia;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="587.5" width="200" height="182.5" as="geometry" />
         </mxCell>
         <mxCell id="uCGIbcbwJvLG3aiI82Lx-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Georgia;" edge="1" parent="1" source="uCGIbcbwJvLG3aiI82Lx-15" target="uCGIbcbwJvLG3aiI82Lx-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uCGIbcbwJvLG3aiI82Lx-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/nodejs-128.png;rounded=1;glass=0;fontFamily=Georgia;" vertex="1" parent="1">
-          <mxGeometry x="361" y="320" width="128" height="128" as="geometry" />
+          <mxGeometry x="297" y="570" width="220" height="220" as="geometry" />
         </mxCell>
         <mxCell id="uCGIbcbwJvLG3aiI82Lx-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.445;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Georgia;" edge="1" parent="1" source="uCGIbcbwJvLG3aiI82Lx-19" target="uCGIbcbwJvLG3aiI82Lx-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uCGIbcbwJvLG3aiI82Lx-19" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=1;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#b85450;rounded=1;glass=0;fontFamily=Georgia;fillColor=#f8cecc;" vertex="1" parent="1">
-          <mxGeometry x="380" y="50" width="76.92" height="130" as="geometry" />
+          <mxGeometry x="380" y="50" width="153.84" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="KzPOfOOarQZ9OrYP9TSm-5" value="&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;DB&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=0;fontFamily=Georgia;" vertex="1" parent="1">
+          <mxGeometry x="687.5" y="680" width="55" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="UBfxQE9WDjE1dnSNd1Uc" name="Page-2">
+    <mxGraphModel dx="1342" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="gRrHQDTrF8vR7rpWXGff-0" />
+        <mxCell id="gRrHQDTrF8vR7rpWXGff-1" parent="gRrHQDTrF8vR7rpWXGff-0" />
+        <mxCell id="8DKthUiJcdaB5nyWl-to-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=120;entryPerimeter=0;fontFamily=Georgia;" edge="1" parent="gRrHQDTrF8vR7rpWXGff-1" source="8DKthUiJcdaB5nyWl-to-0" target="8DKthUiJcdaB5nyWl-to-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="830" y="220" />
+              <mxPoint x="830" y="1020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8DKthUiJcdaB5nyWl-to-0" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontFamily=Georgia;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="gRrHQDTrF8vR7rpWXGff-1">
+          <mxGeometry x="210" y="120" width="570" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="8DKthUiJcdaB5nyWl-to-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Articles&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=0;fontFamily=Georgia;" vertex="1" parent="gRrHQDTrF8vR7rpWXGff-1">
+          <mxGeometry x="110" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8DKthUiJcdaB5nyWl-to-4" value="POST" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontFamily=Georgia;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="gRrHQDTrF8vR7rpWXGff-1">
+          <mxGeometry x="270" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8DKthUiJcdaB5nyWl-to-5" value="DELETE" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontFamily=Georgia;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="gRrHQDTrF8vR7rpWXGff-1">
+          <mxGeometry x="420" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8DKthUiJcdaB5nyWl-to-6" value="GET" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontFamily=Georgia;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="gRrHQDTrF8vR7rpWXGff-1">
+          <mxGeometry x="590" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8DKthUiJcdaB5nyWl-to-7" value="&lt;span style=&quot;font-size: 24px&quot;&gt;Books&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=0;fontFamily=Georgia;" vertex="1" parent="gRrHQDTrF8vR7rpWXGff-1">
+          <mxGeometry x="100" y="395" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8DKthUiJcdaB5nyWl-to-8" value="&lt;span style=&quot;font-size: 24px&quot;&gt;Podcast&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=0;fontFamily=Georgia;" vertex="1" parent="gRrHQDTrF8vR7rpWXGff-1">
+          <mxGeometry x="100" y="700" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8DKthUiJcdaB5nyWl-to-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Georgia;" edge="1" parent="gRrHQDTrF8vR7rpWXGff-1" source="8DKthUiJcdaB5nyWl-to-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="475" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8DKthUiJcdaB5nyWl-to-9" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontFamily=Georgia;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="gRrHQDTrF8vR7rpWXGff-1">
+          <mxGeometry x="210" y="370" width="570" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="8DKthUiJcdaB5nyWl-to-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Georgia;" edge="1" parent="gRrHQDTrF8vR7rpWXGff-1" source="8DKthUiJcdaB5nyWl-to-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="735" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8DKthUiJcdaB5nyWl-to-10" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontFamily=Georgia;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="gRrHQDTrF8vR7rpWXGff-1">
+          <mxGeometry x="210" y="620" width="580" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="8DKthUiJcdaB5nyWl-to-11" value="POST" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontFamily=Georgia;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="gRrHQDTrF8vR7rpWXGff-1">
+          <mxGeometry x="275" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8DKthUiJcdaB5nyWl-to-12" value="DELETE" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontFamily=Georgia;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="gRrHQDTrF8vR7rpWXGff-1">
+          <mxGeometry x="425" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8DKthUiJcdaB5nyWl-to-13" value="GET" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontFamily=Georgia;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="gRrHQDTrF8vR7rpWXGff-1">
+          <mxGeometry x="595" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8DKthUiJcdaB5nyWl-to-14" value="POST" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontFamily=Georgia;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="gRrHQDTrF8vR7rpWXGff-1">
+          <mxGeometry x="260" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8DKthUiJcdaB5nyWl-to-15" value="DELETE" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontFamily=Georgia;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="gRrHQDTrF8vR7rpWXGff-1">
+          <mxGeometry x="425" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8DKthUiJcdaB5nyWl-to-16" value="GET" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontFamily=Georgia;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="gRrHQDTrF8vR7rpWXGff-1">
+          <mxGeometry x="600" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8DKthUiJcdaB5nyWl-to-17" value="&lt;h1&gt;Routes that the client can fetch&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;glass=0;sketch=0;fontFamily=Georgia;" vertex="1" parent="gRrHQDTrF8vR7rpWXGff-1">
+          <mxGeometry x="275" y="40" width="390" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8DKthUiJcdaB5nyWl-to-18" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px ; font-weight: normal&quot;&gt;To create a new Article and store it in Database&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;glass=0;sketch=0;fontFamily=Georgia;" vertex="1" parent="gRrHQDTrF8vR7rpWXGff-1">
+          <mxGeometry x="240" y="220" width="165" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8DKthUiJcdaB5nyWl-to-19" value="&lt;h1&gt;&lt;span style=&quot;font-size: 14px ; font-weight: 400&quot;&gt;Delete the particular article from database&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;glass=0;sketch=0;fontFamily=Georgia;" vertex="1" parent="gRrHQDTrF8vR7rpWXGff-1">
+          <mxGeometry x="412.5" y="220" width="165" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8DKthUiJcdaB5nyWl-to-20" value="&lt;h1&gt;&lt;span style=&quot;font-size: 14px ; font-weight: 400&quot;&gt;Get Article/s from the database&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;glass=0;sketch=0;fontFamily=Georgia;" vertex="1" parent="gRrHQDTrF8vR7rpWXGff-1">
+          <mxGeometry x="577.5" y="220" width="165" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8DKthUiJcdaB5nyWl-to-21" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px ; font-weight: normal&quot;&gt;To create a new Book and store it in Database&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;glass=0;sketch=0;fontFamily=Georgia;" vertex="1" parent="gRrHQDTrF8vR7rpWXGff-1">
+          <mxGeometry x="233.75" y="480" width="165" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8DKthUiJcdaB5nyWl-to-22" value="&lt;h1&gt;&lt;span style=&quot;font-size: 14px ; font-weight: 400&quot;&gt;Delete the particular Book from database&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;glass=0;sketch=0;fontFamily=Georgia;" vertex="1" parent="gRrHQDTrF8vR7rpWXGff-1">
+          <mxGeometry x="406.25" y="480" width="165" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8DKthUiJcdaB5nyWl-to-23" value="&lt;h1&gt;&lt;span style=&quot;font-size: 14px ; font-weight: 400&quot;&gt;Get Book/s from the database&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;glass=0;sketch=0;fontFamily=Georgia;" vertex="1" parent="gRrHQDTrF8vR7rpWXGff-1">
+          <mxGeometry x="571.25" y="480" width="165" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8DKthUiJcdaB5nyWl-to-24" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px ; font-weight: normal&quot;&gt;To create a new Podcast and store it in Database&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;glass=0;sketch=0;fontFamily=Georgia;" vertex="1" parent="gRrHQDTrF8vR7rpWXGff-1">
+          <mxGeometry x="243.75" y="740" width="165" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8DKthUiJcdaB5nyWl-to-25" value="&lt;h1&gt;&lt;span style=&quot;font-size: 14px ; font-weight: 400&quot;&gt;Delete the particular Podcast from database&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;glass=0;sketch=0;fontFamily=Georgia;" vertex="1" parent="gRrHQDTrF8vR7rpWXGff-1">
+          <mxGeometry x="416.25" y="740" width="165" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8DKthUiJcdaB5nyWl-to-26" value="&lt;h1&gt;&lt;span style=&quot;font-size: 14px ; font-weight: 400&quot;&gt;Get Podcast/s from the database&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;glass=0;sketch=0;fontFamily=Georgia;" vertex="1" parent="gRrHQDTrF8vR7rpWXGff-1">
+          <mxGeometry x="581.25" y="740" width="165" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8DKthUiJcdaB5nyWl-to-29" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=1;shadow=1;glass=0;sketch=0;fontFamily=Georgia;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="gRrHQDTrF8vR7rpWXGff-1">
+          <mxGeometry x="445" y="900" width="150" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="8DKthUiJcdaB5nyWl-to-33" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;DATABASE&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=0;fontFamily=Georgia;" vertex="1" parent="gRrHQDTrF8vR7rpWXGff-1">
+          <mxGeometry x="500" y="980" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Page-3" id="R8I7R6TyHsZTY71Y-w5v">
+    <mxGraphModel dx="1342" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
+      <root>
+        <mxCell id="meNhva1SL6BR4JB109bT-0" />
+        <mxCell id="meNhva1SL6BR4JB109bT-1" parent="meNhva1SL6BR4JB109bT-0" />
+        <mxCell id="oz6VqMiWJ2UJ3RVxTlk7-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Georgia;" edge="1" parent="meNhva1SL6BR4JB109bT-1" source="oz6VqMiWJ2UJ3RVxTlk7-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="980" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oz6VqMiWJ2UJ3RVxTlk7-12" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontFamily=Georgia;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="meNhva1SL6BR4JB109bT-1">
+          <mxGeometry x="20" y="400" width="930" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="oz6VqMiWJ2UJ3RVxTlk7-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=157.5;entryPerimeter=0;fontFamily=Georgia;" edge="1" parent="meNhva1SL6BR4JB109bT-1" source="meNhva1SL6BR4JB109bT-3" target="meNhva1SL6BR4JB109bT-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="meNhva1SL6BR4JB109bT-3" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontFamily=Georgia;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="meNhva1SL6BR4JB109bT-1">
+          <mxGeometry x="23.75" y="120" width="930" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="meNhva1SL6BR4JB109bT-4" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Articles&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=0;fontFamily=Georgia;" vertex="1" parent="meNhva1SL6BR4JB109bT-1">
+          <mxGeometry x="980" y="170" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="meNhva1SL6BR4JB109bT-5" value="&lt;b&gt;POST&lt;br&gt;/article&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontFamily=Georgia;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="meNhva1SL6BR4JB109bT-1">
+          <mxGeometry x="50" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="meNhva1SL6BR4JB109bT-6" value="&lt;b&gt;DELETE&lt;br&gt;/article/id&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontFamily=Georgia;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="meNhva1SL6BR4JB109bT-1">
+          <mxGeometry x="296.25" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="meNhva1SL6BR4JB109bT-7" value="&lt;b&gt;GET&lt;br&gt;/articles&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontFamily=Georgia;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="meNhva1SL6BR4JB109bT-1">
+          <mxGeometry x="520" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="meNhva1SL6BR4JB109bT-9" value="&lt;span style=&quot;font-size: 24px&quot;&gt;Podcast&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=0;fontFamily=Georgia;" vertex="1" parent="meNhva1SL6BR4JB109bT-1">
+          <mxGeometry x="1000" y="750" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="meNhva1SL6BR4JB109bT-20" value="&lt;h1&gt;Routes that the client can fetch&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;glass=0;sketch=0;fontFamily=Georgia;" vertex="1" parent="meNhva1SL6BR4JB109bT-1">
+          <mxGeometry x="275" y="40" width="390" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="meNhva1SL6BR4JB109bT-30" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=1;shadow=1;glass=0;sketch=0;fontFamily=Georgia;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="meNhva1SL6BR4JB109bT-1">
+          <mxGeometry x="600" y="1090" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="meNhva1SL6BR4JB109bT-31" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;DATABASE&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=0;fontFamily=Georgia;" vertex="1" parent="meNhva1SL6BR4JB109bT-1">
+          <mxGeometry x="666.88" y="1180" width="98.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oz6VqMiWJ2UJ3RVxTlk7-0" value="&lt;b&gt;GET&lt;br&gt;/article/id&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontFamily=Georgia;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="meNhva1SL6BR4JB109bT-1">
+          <mxGeometry x="755" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oz6VqMiWJ2UJ3RVxTlk7-1" value="&lt;h1&gt;Request Body&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;All the Article info to be stored in database&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;glass=0;sketch=0;fontFamily=Georgia;" vertex="1" parent="meNhva1SL6BR4JB109bT-1">
+          <mxGeometry x="43.75" y="220" width="186.25" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oz6VqMiWJ2UJ3RVxTlk7-2" value="&lt;h1&gt;Request Param&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;The article Id or any unique field to get the particular Article to delete from DB&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;glass=0;sketch=0;fontFamily=Georgia;" vertex="1" parent="meNhva1SL6BR4JB109bT-1">
+          <mxGeometry x="261.25" y="220" width="198.75" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="oz6VqMiWJ2UJ3RVxTlk7-3" value="&lt;h1&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;/articles&lt;/b&gt;&lt;span style=&quot;font-size: 18px ; font-weight: normal&quot;&gt; will send all the articles from database to client&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;glass=0;sketch=0;fontFamily=Georgia;" vertex="1" parent="meNhva1SL6BR4JB109bT-1">
+          <mxGeometry x="485" y="220" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="oz6VqMiWJ2UJ3RVxTlk7-4" value="&lt;h1&gt;Request Param&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;/articles/id&lt;/b&gt; takes id parameter of the article and send only that particular article&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;glass=0;sketch=0;fontFamily=Georgia;" vertex="1" parent="meNhva1SL6BR4JB109bT-1">
+          <mxGeometry x="720" y="220" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="oz6VqMiWJ2UJ3RVxTlk7-5" value="&lt;b&gt;POST&lt;br&gt;/book&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontFamily=Georgia;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="meNhva1SL6BR4JB109bT-1">
+          <mxGeometry x="60.63" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oz6VqMiWJ2UJ3RVxTlk7-6" value="&lt;b&gt;DELETE&lt;br&gt;/book/id&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontFamily=Georgia;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="meNhva1SL6BR4JB109bT-1">
+          <mxGeometry x="306.88" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oz6VqMiWJ2UJ3RVxTlk7-7" value="&lt;b&gt;GET&lt;br&gt;/books&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontFamily=Georgia;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="meNhva1SL6BR4JB109bT-1">
+          <mxGeometry x="530.63" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oz6VqMiWJ2UJ3RVxTlk7-8" value="&lt;b&gt;GET&lt;br&gt;/book/id&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontFamily=Georgia;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="meNhva1SL6BR4JB109bT-1">
+          <mxGeometry x="765.63" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oz6VqMiWJ2UJ3RVxTlk7-9" value="&lt;h1&gt;Request Body&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;All the Book info to be stored in database&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;glass=0;sketch=0;fontFamily=Georgia;" vertex="1" parent="meNhva1SL6BR4JB109bT-1">
+          <mxGeometry x="54.38" y="490" width="186.25" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oz6VqMiWJ2UJ3RVxTlk7-10" value="&lt;h1&gt;Request Param&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;The Book Id or any unique field to get the particular Book to delete from DB&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;glass=0;sketch=0;fontFamily=Georgia;" vertex="1" parent="meNhva1SL6BR4JB109bT-1">
+          <mxGeometry x="271.88" y="490" width="198.75" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="oz6VqMiWJ2UJ3RVxTlk7-11" value="&lt;h1&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;/books&lt;/b&gt;&lt;span style=&quot;font-size: 18px ; font-weight: normal&quot;&gt; will send all the books from database to client&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;glass=0;sketch=0;fontFamily=Georgia;" vertex="1" parent="meNhva1SL6BR4JB109bT-1">
+          <mxGeometry x="495.63" y="490" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="oz6VqMiWJ2UJ3RVxTlk7-13" value="&lt;h1&gt;Request Param&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;/book/id&lt;/b&gt; takes id parameter of the book and send only that particular book&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;glass=0;sketch=0;fontFamily=Georgia;" vertex="1" parent="meNhva1SL6BR4JB109bT-1">
+          <mxGeometry x="715" y="500" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="oz6VqMiWJ2UJ3RVxTlk7-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Georgia;" edge="1" parent="meNhva1SL6BR4JB109bT-1" source="oz6VqMiWJ2UJ3RVxTlk7-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="980" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oz6VqMiWJ2UJ3RVxTlk7-14" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontFamily=Georgia;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="meNhva1SL6BR4JB109bT-1">
+          <mxGeometry x="20" y="680" width="930" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="oz6VqMiWJ2UJ3RVxTlk7-15" value="&lt;b&gt;POST&lt;br&gt;/podcast&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontFamily=Georgia;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="meNhva1SL6BR4JB109bT-1">
+          <mxGeometry x="60.63" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oz6VqMiWJ2UJ3RVxTlk7-16" value="&lt;h1&gt;Request Body&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;All the Podcast info to be stored in database&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;glass=0;sketch=0;fontFamily=Georgia;" vertex="1" parent="meNhva1SL6BR4JB109bT-1">
+          <mxGeometry x="54.38" y="770" width="186.25" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oz6VqMiWJ2UJ3RVxTlk7-17" value="&lt;b&gt;DELETE&lt;br&gt;/podcast/id&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontFamily=Georgia;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="meNhva1SL6BR4JB109bT-1">
+          <mxGeometry x="306.88" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oz6VqMiWJ2UJ3RVxTlk7-18" value="&lt;h1&gt;Request Param&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;The podcast Id or any unique field to get the particular podcast to delete from DB&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;glass=0;sketch=0;fontFamily=Georgia;" vertex="1" parent="meNhva1SL6BR4JB109bT-1">
+          <mxGeometry x="271.88" y="770" width="198.75" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="oz6VqMiWJ2UJ3RVxTlk7-19" value="&lt;h1&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;/podcasts&lt;/b&gt;&lt;span style=&quot;font-size: 18px ; font-weight: normal&quot;&gt; will send all the podcasts from database to client&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;glass=0;sketch=0;fontFamily=Georgia;" vertex="1" parent="meNhva1SL6BR4JB109bT-1">
+          <mxGeometry x="495.63" y="770" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="oz6VqMiWJ2UJ3RVxTlk7-20" value="&lt;b&gt;GET&lt;br&gt;/podcasts&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontFamily=Georgia;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="meNhva1SL6BR4JB109bT-1">
+          <mxGeometry x="530.63" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oz6VqMiWJ2UJ3RVxTlk7-21" value="&lt;b&gt;GET&lt;br&gt;/podcast/id&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontFamily=Georgia;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="meNhva1SL6BR4JB109bT-1">
+          <mxGeometry x="765.63" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oz6VqMiWJ2UJ3RVxTlk7-22" value="&lt;h1&gt;Request Param&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;/podcast/id&lt;/b&gt; takes id parameter of the podcast and send only that particular podcast&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;glass=0;sketch=0;fontFamily=Georgia;" vertex="1" parent="meNhva1SL6BR4JB109bT-1">
+          <mxGeometry x="715" y="780" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="oz6VqMiWJ2UJ3RVxTlk7-23" value="&lt;span style=&quot;font-size: 24px&quot;&gt;Books&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=0;fontFamily=Georgia;" vertex="1" parent="meNhva1SL6BR4JB109bT-1">
+          <mxGeometry x="1000" y="460" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
